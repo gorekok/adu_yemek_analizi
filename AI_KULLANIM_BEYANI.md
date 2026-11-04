@@ -12,3 +12,7 @@ Tarih: 04.11.2026  Araç: Gemini
 Amaç: 3. hafta görevleri olan Pandas ile veri temizleme ve keşifsel veri analizi (EDA) betiğini yazma ve temiz veriyi outputs klasörüne kaydetme.
 İlgili dosya / bölüm: src/analysis/eda_analiz.py ve outputs/temizlenmis_menu.csv.
 Çıktıyı nasıl doğruladım: Kodu terminalde çalıştırarak ham verinin temizlendiğini, EDA sonuçlarının listelendiğini ve outputs altında temiz CSV dosyasının oluştuğunu bizzat teyit ettim.
+
+Tarih: 04.11.2026  Araç: Gemini
+Amaç: 4. hafta görevleri kapsamında Pandas, Matplotlib ve Seaborn kullanarak temizlenmiş verinin görselleştirilmesi (`src/analysis/gorsellestirme.py`) ve `outputs/figures/ogun_dagilimi.png` çıktısının üretilmesi.
+Çıktıyı nasıl doğruladım: Kodu terminalde çalıştırarak grafik görselinin başarıyla oluştuğunu ve kaydedildiğini bizzat teyit ettim.
