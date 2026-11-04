@@ -16,3 +16,8 @@ Amaç: 3. hafta görevleri olan Pandas ile veri temizleme ve keşifsel veri anal
 Tarih: 04.11.2026  Araç: Gemini
 Amaç: 4. hafta görevleri kapsamında Pandas, Matplotlib ve Seaborn kullanarak temizlenmiş verinin görselleştirilmesi (`src/analysis/gorsellestirme.py`) ve `outputs/figures/ogun_dagilimi.png` çıktısının üretilmesi.
 Çıktıyı nasıl doğruladım: Kodu terminalde çalıştırarak grafik görselinin başarıyla oluştuğunu ve kaydedildiğini bizzat teyit ettim.
+
+Tarih: 04.11.2026  Araç: Gemini
+Amaç: K-Means besin dengesi kümeleme analizi yapma, sonuçları görselleştirme ve TensorFlow/Keras ile CNN model mimarisi kurma.
+İlgili dosya / bölüm: src/analysis/kumeleme_analizi.py, src/analysis/kume_gorsellestir.py, src/model/cnn_model.py ve outputs/
+Çıktıyı nasıl doğruladım: Kodları VS Code terminalinde çalıştırarak kümeleme CSV çıktısını, dağılım grafiğini ve CNN model katmanlarının başarıyla derlenip outputs klasörüne kaydedildiğini bizzat teyit ettim.

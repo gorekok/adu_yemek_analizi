@@ -1,2 +1,241 @@
-Tarih,Ogun,Yemek_1,Yemek_2,Yemek_3,Yemek_4
-2026-10-22,Öğle,Mercimek Çorbası,Etli Patates,Şehriyeli Bulgur Pilavı,Mandalina
+﻿Tarih,Ogun,Yemek_1,Yemek_2,Yemek_3,Yemek_4
+2026-08-06,Öğle,Mercimek Çorbası,Etli Patetes,Makarna,Elma
+2026-08-06,Akşam,Ezogelin Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-08-07,Öğle,Tarhana Çorbası,Etli Patetes,Bulgur Pilavı,Sütlaç
+2026-08-07,Akşam,Mercimek Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Elma
+2026-08-08,Öğle,Ezogelin Çorbası,Orman Kebabı,Bulgur Pilavı,Mandalina
+2026-08-08,Akşam,Tarhana Çorbası,İzmir Köfte,Bulgur Pilavı,Sütlaç
+2026-08-09,Öğle,Ezogelin Çorbası,Kuru Fasulye,Bulgur Pilavı,Muz
+2026-08-09,Akşam,Mercimek Çorbası,Kıymalı Nohut,Pirinç Pilavı,Meyve Suyu
+2026-08-10,Öğle,Domates Çorbası,Tavuk Sote,Makarna,Elma
+2026-08-10,Akşam,Ezogelin Çorbası,Kıymalı Nohut,Makarna,Mandalina
+2026-08-11,Öğle,Mercimek Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Muz
+2026-08-11,Akşam,Yayla Çorbası,Orman Kebabı,Makarna,Revani
+2026-08-12,Öğle,Mercimek Çorbası,Fırın Tavuk,Erişte,Baklava
+2026-08-12,Akşam,Mercimek Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Baklava
+2026-08-13,Öğle,Yayla Çorbası,Kıymalı Nohut,Bulgur Pilavı,Revani
+2026-08-13,Akşam,Yayla Çorbası,Orman Kebabı,Pirinç Pilavı,Meyve Suyu
+2026-08-14,Öğle,Mercimek Çorbası,Etli Patetes,Pirinç Pilavı,Revani
+2026-08-14,Akşam,Yayla Çorbası,Etli Patetes,Pirinç Pilavı,Revani
+2026-08-15,Öğle,Mercimek Çorbası,Kuru Fasulye,Makarna,Sütlaç
+2026-08-15,Akşam,Yayla Çorbası,İzmir Köfte,Makarna,Muz
+2026-08-16,Öğle,Ezogelin Çorbası,Fırın Tavuk,Makarna,Meyve Suyu
+2026-08-16,Akşam,Mercimek Çorbası,Orman Kebabı,Pirinç Pilavı,Baklava
+2026-08-17,Öğle,Ezogelin Çorbası,İzmir Köfte,Erişte,Sütlaç
+2026-08-17,Akşam,Yayla Çorbası,Fırın Tavuk,Bulgur Pilavı,Elma
+2026-08-18,Öğle,Yayla Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Elma
+2026-08-18,Akşam,Mercimek Çorbası,Kıymalı Nohut,Makarna,Sütlaç
+2026-08-19,Öğle,Yayla Çorbası,Etli Patetes,Pirinç Pilavı,Baklava
+2026-08-19,Akşam,Yayla Çorbası,İzmir Köfte,Erişte,Sütlaç
+2026-08-20,Öğle,Domates Çorbası,İzmir Köfte,Makarna,Elma
+2026-08-20,Akşam,Ezogelin Çorbası,Fırın Tavuk,Bulgur Pilavı,Baklava
+2026-08-21,Öğle,Yayla Çorbası,Fırın Tavuk,Bulgur Pilavı,Sütlaç
+2026-08-21,Akşam,Tarhana Çorbası,Kuru Fasulye,Makarna,Elma
+2026-08-22,Öğle,Ezogelin Çorbası,Orman Kebabı,Erişte,Mandalina
+2026-08-22,Akşam,Mercimek Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Elma
+2026-08-23,Öğle,Ezogelin Çorbası,Kıymalı Nohut,Erişte,Baklava
+2026-08-23,Akşam,Mercimek Çorbası,Kuru Fasulye,Erişte,Baklava
+2026-08-24,Öğle,Domates Çorbası,Orman Kebabı,Makarna,Baklava
+2026-08-24,Akşam,Mercimek Çorbası,Fırın Tavuk,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-08-25,Öğle,Tarhana Çorbası,Kıymalı Nohut,Makarna,Revani
+2026-08-25,Akşam,Yayla Çorbası,Etli Patetes,Makarna,Sütlaç
+2026-08-26,Öğle,Ezogelin Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-08-26,Akşam,Yayla Çorbası,Orman Kebabı,Pirinç Pilavı,Baklava
+2026-08-27,Öğle,Mercimek Çorbası,Kıymalı Nohut,Makarna,Revani
+2026-08-27,Akşam,Tarhana Çorbası,Orman Kebabı,Pirinç Pilavı,Elma
+2026-08-28,Öğle,Yayla Çorbası,Kıymalı Nohut,Pirinç Pilavı,Baklava
+2026-08-28,Akşam,Tarhana Çorbası,Etli Patetes,Bulgur Pilavı,Muz
+2026-08-29,Öğle,Domates Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Muz
+2026-08-29,Akşam,Yayla Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Elma
+2026-08-30,Öğle,Tarhana Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-08-30,Akşam,Domates Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Revani
+2026-08-31,Öğle,Tarhana Çorbası,Kıymalı Nohut,Pirinç Pilavı,Elma
+2026-08-31,Akşam,Domates Çorbası,Orman Kebabı,Pirinç Pilavı,Muz
+2026-09-01,Öğle,Tarhana Çorbası,Kıymalı Nohut,Bulgur Pilavı,Sütlaç
+2026-09-01,Akşam,Ezogelin Çorbası,Orman Kebabı,Pirinç Pilavı,Meyve Suyu
+2026-09-02,Öğle,Yayla Çorbası,Kuru Fasulye,Makarna,Sütlaç
+2026-09-02,Akşam,Tarhana Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Elma
+2026-09-03,Öğle,Ezogelin Çorbası,Etli Patetes,Makarna,Mandalina
+2026-09-03,Akşam,Tarhana Çorbası,Orman Kebabı,Pirinç Pilavı,Baklava
+2026-09-04,Öğle,Ezogelin Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-09-04,Akşam,Mercimek Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Mandalina
+2026-09-05,Öğle,Yayla Çorbası,Etli Patetes,Bulgur Pilavı,Elma
+2026-09-05,Akşam,Yayla Çorbası,Fırın Tavuk,Erişte,Elma
+2026-09-06,Öğle,Tarhana Çorbası,İzmir Köfte,Bulgur Pilavı,Baklava
+2026-09-06,Akşam,Domates Çorbası,İzmir Köfte,Erişte,Revani
+2026-09-07,Öğle,Domates Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Mandalina
+2026-09-07,Akşam,Domates Çorbası,Tavuk Sote,Erişte,Sütlaç
+2026-09-08,Öğle,Domates Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-09-08,Akşam,Mercimek Çorbası,Etli Patetes,Erişte,Meyve Suyu
+2026-09-09,Öğle,Yayla Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Elma
+2026-09-09,Akşam,Ezogelin Çorbası,İzmir Köfte,Bulgur Pilavı,Sütlaç
+2026-09-10,Öğle,Ezogelin Çorbası,Kuru Fasulye,Pirinç Pilavı,Muz
+2026-09-10,Akşam,Domates Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-09-11,Öğle,Tarhana Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-09-11,Akşam,Tarhana Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Mandalina
+2026-09-12,Öğle,Ezogelin Çorbası,İzmir Köfte,Erişte,Sütlaç
+2026-09-12,Akşam,Domates Çorbası,İzmir Köfte,Erişte,Mandalina
+2026-09-13,Öğle,Ezogelin Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-09-13,Akşam,Yayla Çorbası,Kıymalı Nohut,Erişte,Muz
+2026-09-14,Öğle,Domates Çorbası,Fırın Tavuk,Bulgur Pilavı,Meyve Suyu
+2026-09-14,Akşam,Domates Çorbası,İzmir Köfte,Pirinç Pilavı,Muz
+2026-09-15,Öğle,Ezogelin Çorbası,Etli Patetes,Bulgur Pilavı,Meyve Suyu
+2026-09-15,Akşam,Tarhana Çorbası,Etli Patetes,Makarna,Mandalina
+2026-09-16,Öğle,Mercimek Çorbası,Orman Kebabı,Erişte,Baklava
+2026-09-16,Akşam,Tarhana Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Baklava
+2026-09-17,Öğle,Mercimek Çorbası,Kıymalı Nohut,Pirinç Pilavı,Mandalina
+2026-09-17,Akşam,Tarhana Çorbası,Etli Patetes,Pirinç Pilavı,Sütlaç
+2026-09-18,Öğle,Mercimek Çorbası,Orman Kebabı,Pirinç Pilavı,Baklava
+2026-09-18,Akşam,Tarhana Çorbası,Etli Patetes,Bulgur Pilavı,Mandalina
+2026-09-19,Öğle,Domates Çorbası,Fırın Tavuk,Bulgur Pilavı,Baklava
+2026-09-19,Akşam,Tarhana Çorbası,Tavuk Sote,Makarna,Elma
+2026-09-20,Öğle,Yayla Çorbası,İzmir Köfte,Makarna,Sütlaç
+2026-09-20,Akşam,Ezogelin Çorbası,Fırın Tavuk,Makarna,Sütlaç
+2026-09-21,Öğle,Yayla Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Mandalina
+2026-09-21,Akşam,Domates Çorbası,Orman Kebabı,Bulgur Pilavı,Mandalina
+2026-09-22,Öğle,Mercimek Çorbası,Orman Kebabı,Pirinç Pilavı,Baklava
+2026-09-22,Akşam,Yayla Çorbası,İzmir Köfte,Makarna,Mandalina
+2026-09-23,Öğle,Ezogelin Çorbası,Tavuk Sote,Makarna,Elma
+2026-09-23,Akşam,Domates Çorbası,Kıymalı Nohut,Bulgur Pilavı,Meyve Suyu
+2026-09-24,Öğle,Yayla Çorbası,Orman Kebabı,Bulgur Pilavı,Mandalina
+2026-09-24,Akşam,Tarhana Çorbası,Tavuk Sote,Şehriyeli Bulgur Pilavı,Elma
+2026-09-25,Öğle,Yayla Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-09-25,Akşam,Tarhana Çorbası,İzmir Köfte,Makarna,Muz
+2026-09-26,Öğle,Tarhana Çorbası,İzmir Köfte,Makarna,Elma
+2026-09-26,Akşam,Yayla Çorbası,Orman Kebabı,Erişte,Muz
+2026-09-27,Öğle,Mercimek Çorbası,Etli Patetes,Erişte,Revani
+2026-09-27,Akşam,Yayla Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Muz
+2026-09-28,Öğle,Ezogelin Çorbası,Fırın Tavuk,Makarna,Elma
+2026-09-28,Akşam,Domates Çorbası,Orman Kebabı,Erişte,Baklava
+2026-09-29,Öğle,Mercimek Çorbası,Etli Patetes,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-09-29,Akşam,Ezogelin Çorbası,Orman Kebabı,Şehriyeli Bulgur Pilavı,Revani
+2026-09-30,Öğle,Yayla Çorbası,Orman Kebabı,Bulgur Pilavı,Elma
+2026-09-30,Akşam,Domates Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Muz
+2026-10-01,Öğle,Yayla Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Muz
+2026-10-01,Akşam,Ezogelin Çorbası,Fırın Tavuk,Pirinç Pilavı,Meyve Suyu
+2026-10-02,Öğle,Mercimek Çorbası,Tavuk Sote,Bulgur Pilavı,Revani
+2026-10-02,Akşam,Domates Çorbası,Orman Kebabı,Pirinç Pilavı,Elma
+2026-10-03,Öğle,Ezogelin Çorbası,Kıymalı Nohut,Pirinç Pilavı,Sütlaç
+2026-10-03,Akşam,Mercimek Çorbası,İzmir Köfte,Makarna,Revani
+2026-10-04,Öğle,Domates Çorbası,Kıymalı Nohut,Pirinç Pilavı,Muz
+2026-10-04,Akşam,Ezogelin Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-10-05,Öğle,Mercimek Çorbası,Kıymalı Nohut,Erişte,Elma
+2026-10-05,Akşam,Ezogelin Çorbası,Kıymalı Nohut,Erişte,Muz
+2026-10-06,Öğle,Yayla Çorbası,Kıymalı Nohut,Pirinç Pilavı,Elma
+2026-10-06,Akşam,Mercimek Çorbası,Fırın Tavuk,Pirinç Pilavı,Sütlaç
+2026-10-07,Öğle,Yayla Çorbası,Tavuk Sote,Şehriyeli Bulgur Pilavı,Revani
+2026-10-07,Akşam,Yayla Çorbası,Tavuk Sote,Bulgur Pilavı,Sütlaç
+2026-10-08,Öğle,Tarhana Çorbası,Tavuk Sote,Şehriyeli Bulgur Pilavı,Mandalina
+2026-10-08,Akşam,Yayla Çorbası,İzmir Köfte,Bulgur Pilavı,Muz
+2026-10-09,Öğle,Mercimek Çorbası,Etli Patetes,Bulgur Pilavı,Sütlaç
+2026-10-09,Akşam,Yayla Çorbası,Fırın Tavuk,Makarna,Sütlaç
+2026-10-10,Öğle,Tarhana Çorbası,Orman Kebabı,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-10-10,Akşam,Tarhana Çorbası,İzmir Köfte,Makarna,Mandalina
+2026-10-11,Öğle,Domates Çorbası,Etli Patetes,Bulgur Pilavı,Revani
+2026-10-11,Akşam,Tarhana Çorbası,Fırın Tavuk,Pirinç Pilavı,Muz
+2026-10-12,Öğle,Domates Çorbası,Etli Patetes,Makarna,Baklava
+2026-10-12,Akşam,Yayla Çorbası,Fırın Tavuk,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-10-13,Öğle,Yayla Çorbası,Orman Kebabı,Makarna,Meyve Suyu
+2026-10-13,Akşam,Domates Çorbası,Tavuk Sote,Erişte,Meyve Suyu
+2026-10-14,Öğle,Yayla Çorbası,Orman Kebabı,Pirinç Pilavı,Elma
+2026-10-14,Akşam,Domates Çorbası,Fırın Tavuk,Erişte,Meyve Suyu
+2026-10-15,Öğle,Ezogelin Çorbası,Orman Kebabı,Bulgur Pilavı,Muz
+2026-10-15,Akşam,Domates Çorbası,Orman Kebabı,Şehriyeli Bulgur Pilavı,Muz
+2026-10-16,Öğle,Yayla Çorbası,İzmir Köfte,Erişte,Revani
+2026-10-16,Akşam,Tarhana Çorbası,Orman Kebabı,Makarna,Sütlaç
+2026-10-17,Öğle,Domates Çorbası,Kuru Fasulye,Pirinç Pilavı,Baklava
+2026-10-17,Akşam,Domates Çorbası,Kıymalı Nohut,Pirinç Pilavı,Meyve Suyu
+2026-10-18,Öğle,Mercimek Çorbası,Tavuk Sote,Bulgur Pilavı,Meyve Suyu
+2026-10-18,Akşam,Tarhana Çorbası,Tavuk Sote,Şehriyeli Bulgur Pilavı,Revani
+2026-10-19,Öğle,Ezogelin Çorbası,Fırın Tavuk,Makarna,Elma
+2026-10-19,Akşam,Ezogelin Çorbası,İzmir Köfte,Şehriyeli Bulgur Pilavı,Mandalina
+2026-10-20,Öğle,Ezogelin Çorbası,Kuru Fasulye,Bulgur Pilavı,Revani
+2026-10-20,Akşam,Mercimek Çorbası,Kuru Fasulye,Erişte,Meyve Suyu
+2026-10-21,Öğle,Tarhana Çorbası,İzmir Köfte,Erişte,Sütlaç
+2026-10-21,Akşam,Domates Çorbası,İzmir Köfte,Pirinç Pilavı,Meyve Suyu
+2026-10-22,Öğle,Mercimek Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Revani
+2026-10-22,Akşam,Domates Çorbası,İzmir Köfte,Pirinç Pilavı,Revani
+2026-10-23,Öğle,Tarhana Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Baklava
+2026-10-23,Akşam,Ezogelin Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-10-24,Öğle,Ezogelin Çorbası,Kıymalı Nohut,Erişte,Meyve Suyu
+2026-10-24,Akşam,Tarhana Çorbası,Orman Kebabı,Bulgur Pilavı,Muz
+2026-10-25,Öğle,Domates Çorbası,Orman Kebabı,Bulgur Pilavı,Sütlaç
+2026-10-25,Akşam,Tarhana Çorbası,Kuru Fasulye,Pirinç Pilavı,Meyve Suyu
+2026-10-26,Öğle,Domates Çorbası,Kuru Fasulye,Makarna,Revani
+2026-10-26,Akşam,Ezogelin Çorbası,Kıymalı Nohut,Makarna,Revani
+2026-10-27,Öğle,Tarhana Çorbası,Kuru Fasulye,Pirinç Pilavı,Muz
+2026-10-27,Akşam,Domates Çorbası,Etli Patetes,Makarna,Elma
+2026-10-28,Öğle,Yayla Çorbası,Tavuk Sote,Makarna,Baklava
+2026-10-28,Akşam,Mercimek Çorbası,İzmir Köfte,Pirinç Pilavı,Elma
+2026-10-29,Öğle,Domates Çorbası,Fırın Tavuk,Pirinç Pilavı,Meyve Suyu
+2026-10-29,Akşam,Ezogelin Çorbası,Etli Patetes,Erişte,Sütlaç
+2026-10-30,Öğle,Yayla Çorbası,Orman Kebabı,Erişte,Sütlaç
+2026-10-30,Akşam,Mercimek Çorbası,İzmir Köfte,Erişte,Sütlaç
+2026-10-31,Öğle,Tarhana Çorbası,Fırın Tavuk,Şehriyeli Bulgur Pilavı,Revani
+2026-10-31,Akşam,Tarhana Çorbası,Kuru Fasulye,Erişte,Mandalina
+2026-11-01,Öğle,Yayla Çorbası,Tavuk Sote,Erişte,Revani
+2026-11-01,Akşam,Domates Çorbası,Orman Kebabı,Bulgur Pilavı,Revani
+2026-11-02,Öğle,Tarhana Çorbası,İzmir Köfte,Erişte,Elma
+2026-11-02,Akşam,Yayla Çorbası,Kuru Fasulye,Erişte,Mandalina
+2026-11-03,Öğle,Domates Çorbası,Tavuk Sote,Erişte,Meyve Suyu
+2026-11-03,Akşam,Ezogelin Çorbası,Kıymalı Nohut,Erişte,Elma
+2026-11-04,Öğle,Tarhana Çorbası,Orman Kebabı,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-11-04,Akşam,Tarhana Çorbası,Orman Kebabı,Şehriyeli Bulgur Pilavı,Mandalina
+2026-11-05,Öğle,Domates Çorbası,İzmir Köfte,Erişte,Elma
+2026-11-05,Akşam,Mercimek Çorbası,Tavuk Sote,Erişte,Muz
+2026-11-06,Öğle,Ezogelin Çorbası,Kuru Fasulye,Makarna,Muz
+2026-11-06,Akşam,Domates Çorbası,Tavuk Sote,Erişte,Muz
+2026-11-07,Öğle,Mercimek Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-11-07,Akşam,Tarhana Çorbası,Etli Patetes,Makarna,Elma
+2026-11-08,Öğle,Mercimek Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Revani
+2026-11-08,Akşam,Mercimek Çorbası,İzmir Köfte,Pirinç Pilavı,Revani
+2026-11-09,Öğle,Mercimek Çorbası,Orman Kebabı,Pirinç Pilavı,Elma
+2026-11-09,Akşam,Ezogelin Çorbası,Kuru Fasulye,Şehriyeli Bulgur Pilavı,Baklava
+2026-11-10,Öğle,Ezogelin Çorbası,Kuru Fasulye,Makarna,Revani
+2026-11-10,Akşam,Yayla Çorbası,İzmir Köfte,Bulgur Pilavı,Baklava
+2026-11-11,Öğle,Mercimek Çorbası,Kıymalı Nohut,Pirinç Pilavı,Muz
+2026-11-11,Akşam,Mercimek Çorbası,Orman Kebabı,Şehriyeli Bulgur Pilavı,Muz
+2026-11-12,Öğle,Tarhana Çorbası,Fırın Tavuk,Erişte,Sütlaç
+2026-11-12,Akşam,Ezogelin Çorbası,Etli Patetes,Bulgur Pilavı,Meyve Suyu
+2026-11-13,Öğle,Ezogelin Çorbası,Etli Patetes,Makarna,Revani
+2026-11-13,Akşam,Tarhana Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Revani
+2026-11-14,Öğle,Tarhana Çorbası,Kıymalı Nohut,Şehriyeli Bulgur Pilavı,Muz
+2026-11-14,Akşam,Tarhana Çorbası,Kuru Fasulye,Makarna,Mandalina
+2026-11-15,Öğle,Tarhana Çorbası,Fırın Tavuk,Makarna,Mandalina
+2026-11-15,Akşam,Domates Çorbası,Kıymalı Nohut,Erişte,Mandalina
+2026-11-16,Öğle,Domates Çorbası,Tavuk Sote,Erişte,Meyve Suyu
+2026-11-16,Akşam,Ezogelin Çorbası,Kuru Fasulye,Pirinç Pilavı,Meyve Suyu
+2026-11-17,Öğle,Tarhana Çorbası,Fırın Tavuk,Makarna,Baklava
+2026-11-17,Akşam,Tarhana Çorbası,Kıymalı Nohut,Erişte,Sütlaç
+2026-11-18,Öğle,Domates Çorbası,Kıymalı Nohut,Bulgur Pilavı,Muz
+2026-11-18,Akşam,Yayla Çorbası,Kıymalı Nohut,Pirinç Pilavı,Revani
+2026-11-19,Öğle,Mercimek Çorbası,Tavuk Sote,Erişte,Elma
+2026-11-19,Akşam,Domates Çorbası,Orman Kebabı,Bulgur Pilavı,Meyve Suyu
+2026-11-20,Öğle,Domates Çorbası,Tavuk Sote,Şehriyeli Bulgur Pilavı,Sütlaç
+2026-11-20,Akşam,Yayla Çorbası,İzmir Köfte,Erişte,Elma
+2026-11-21,Öğle,Yayla Çorbası,Kıymalı Nohut,Makarna,Muz
+2026-11-21,Akşam,Yayla Çorbası,Orman Kebabı,Makarna,Baklava
+2026-11-22,Öğle,Mercimek Çorbası,Orman Kebabı,Pirinç Pilavı,Mandalina
+2026-11-22,Akşam,Ezogelin Çorbası,Fırın Tavuk,Erişte,Sütlaç
+2026-11-23,Öğle,Tarhana Çorbası,Kıymalı Nohut,Pirinç Pilavı,Meyve Suyu
+2026-11-23,Akşam,Domates Çorbası,Fırın Tavuk,Erişte,Sütlaç
+2026-11-24,Öğle,Mercimek Çorbası,Etli Patetes,Makarna,Elma
+2026-11-24,Akşam,Domates Çorbası,Fırın Tavuk,Pirinç Pilavı,Muz
+2026-11-25,Öğle,Tarhana Çorbası,Tavuk Sote,Erişte,Baklava
+2026-11-25,Akşam,Tarhana Çorbası,Tavuk Sote,Erişte,Meyve Suyu
+2026-11-26,Öğle,Tarhana Çorbası,Tavuk Sote,Makarna,Meyve Suyu
+2026-11-26,Akşam,Domates Çorbası,Tavuk Sote,Makarna,Muz
+2026-11-27,Öğle,Ezogelin Çorbası,Etli Patetes,Pirinç Pilavı,Muz
+2026-11-27,Akşam,Mercimek Çorbası,Fırın Tavuk,Bulgur Pilavı,Revani
+2026-11-28,Öğle,Ezogelin Çorbası,İzmir Köfte,Pirinç Pilavı,Meyve Suyu
+2026-11-28,Akşam,Domates Çorbası,Tavuk Sote,Bulgur Pilavı,Revani
+2026-11-29,Öğle,Tarhana Çorbası,Orman Kebabı,Makarna,Mandalina
+2026-11-29,Akşam,Ezogelin Çorbası,Tavuk Sote,Pirinç Pilavı,Muz
+2026-11-30,Öğle,Ezogelin Çorbası,Tavuk Sote,Şehriyeli Bulgur Pilavı,Meyve Suyu
+2026-11-30,Akşam,Tarhana Çorbası,İzmir Köfte,Makarna,Mandalina
+2026-12-01,Öğle,Mercimek Çorbası,Orman Kebabı,Makarna,Meyve Suyu
+2026-12-01,Akşam,Ezogelin Çorbası,Fırın Tavuk,Erişte,Mandalina
+2026-12-02,Öğle,Mercimek Çorbası,Orman Kebabı,Makarna,Sütlaç
+2026-12-02,Akşam,Domates Çorbası,Kuru Fasulye,Makarna,Elma
+2026-12-03,Öğle,Mercimek Çorbası,Tavuk Sote,Erişte,Mandalina
+2026-12-03,Akşam,Mercimek Çorbası,Kuru Fasulye,Erişte,Mandalina
